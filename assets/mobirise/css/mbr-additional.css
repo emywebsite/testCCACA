@@ -1224,3 +1224,31 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rNbNjpqvOI {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rNbNjpqvOI .form-control,
+.cid-rNbNjpqvOI .form-control:focus {
+  background: #ffffff;
+  border: 1px solid #ffffff;
+}
+.cid-rNbNjpqvOI .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-rNbNjpqvOI textarea.form-control {
+  min-height: 188px;
+}
+.cid-rNbNjpqvOI .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-rNbNjpqvOI .content-container {
+    padding-right: 5rem;
+  }
+}
+.cid-rNbNjpqvOI H1 {
+  color: #efefef;
+}
